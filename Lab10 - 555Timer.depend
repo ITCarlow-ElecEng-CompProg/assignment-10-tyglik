@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510583014 source:g:\programming\lab10 - 555timer\main.cpp
+	<iostream>
+	<stdio.h>
+
